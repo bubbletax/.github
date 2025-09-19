@@ -30,15 +30,9 @@ BubbleTax is a project built by developers for developers and traders. Our missi
 
 ## 💡 How to Get Involved or Trust Us
 
-- Explore the [BubbleTax website](https://bubbletax.de/?utm_source=github&utm_medium=org_profile&utm_campaign=link) to view example reports and core functionality.  
+- Explore the [BubbleTax website](https://bubbletax.de/?utm_source=github&utm_medium=org_profile&utm_campaign=link) to view reports and core functionality.  
 - Open feedback is welcomed: feature requests, bug reports, real‑world edge cases matter.  
 - Our calculations assist; they do **not** constitute legal or tax advice. Use with discretion.
-
----
-
-> ✉️ Connect with us:  
-> Email / Issues / GitHub Discussions. Let us know what works, what doesn’t, or what features you’d like to see.
-
 ---
 
 ## 🔒 Values We Stand For

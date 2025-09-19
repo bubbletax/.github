@@ -8,8 +8,8 @@
 
 BubbleTax is a private project built by developers for developers and traders. Our mission:
 
-- Import broker transaction data (especially IBKR) and generate tax reports that are **compliant with German regulations** (BMF writing as of May 2025). :contentReference[oaicite:0]{index=0}  
-- Handle complex cases: foreign‑currency conversion, FIFO lot matching, separation of different asset types (stocks, options, etc.). :contentReference[oaicite:1]{index=1}  
+- Import broker transaction data (especially IBKR) and generate tax reports that are **compliant with German regulations** (BMF writing as of May 2025).  
+- Handle complex cases: foreign‑currency conversion, FIFO lot matching, separation of different asset types (stocks, options, etc.).
 - Provide a trustworthy and transparent tool — open process, clearly documented logic, no hidden fees.  
 
 ---
@@ -17,7 +17,7 @@ BubbleTax is a private project built by developers for developers and traders. O
 ## 👤 Team
 
 - **Dominik “Icereed” Schröter** — Co-Founder, Lead Architect & Hands‑On Coder  
-  Maintainer of *paperless‑gpt* (1500+ GitHub stars) :contentReference[oaicite:2]{index=2}  
+  Maintainer of *icereed/paperless‑gpt* (1500+ GitHub stars)
 - **Thomas** — Co‑Founder, domain knowledge & financial compliance  
 
 ---
@@ -35,7 +35,7 @@ BubbleTax is a private project built by developers for developers and traders. O
 
 ## 🔗 Related Open Source
 
-- [paperless‑gpt](https://github.com/Icereed/paperless-gpt) — OCR & LLM‑powered document tagging and metadata extraction. Same engineering rigor, different domain. :contentReference[oaicite:3]{index=3}
+- [paperless‑gpt](https://github.com/Icereed/paperless-gpt) — OCR & LLM‑powered document tagging and metadata extraction. Same engineering rigor, different domain.
 
 ---
 

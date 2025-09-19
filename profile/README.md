@@ -6,30 +6,19 @@
 
 ## 🚀 What We Do
 
-BubbleTax is a private project built by developers for developers and traders. Our mission:
+BubbleTax is a project built by developers for developers and traders. Our mission:
 
-- Import broker transaction data (especially IBKR) and generate tax reports that are **compliant with German regulations** (BMF writing as of May 2025).  
+- Import broker transaction data (especially IBKR) and generate tax reports that are **compliant with German regulations** (BMF writing as of May 2025).
 - Handle complex cases: foreign‑currency conversion, FIFO lot matching, separation of different asset types (stocks, options, etc.).
-- Provide a trustworthy and transparent tool — open process, clearly documented logic, no hidden fees.  
+- Offer a tool with trustworthy, transparent logic — clearly documented, no hidden fees, and with respect for users' needs.
 
 ---
 
 ## 👤 Team
 
-- **Dominik “Icereed” Schröter** — Co-Founder, Lead Architect & Hands‑On Coder  
-  Maintainer of *icereed/paperless‑gpt* (1500+ GitHub stars)
-- **Thomas** — Co‑Founder, domain knowledge & financial compliance  
-
----
-
-## 📚 Projects & Structure
-
-| Project        | Purpose                                                                 |
-|----------------|-------------------------------------------------------------------------|
-| **BubbleTax Core**  | Parsing, FX pipelines, tax logic engine (FIFO, conversions, etc.)       |
-| **BubbleTax Web UI**| User dashboard, report previews, exports                             |
-| **Integrations**    | Broker integrations, batch processing                                 |
-| **Feedback & Docs** | Transparent reporting of bugs, user feedback, FAQ documentation      |
+- **Dominik “Icereed” Schröter** — Co‑Founder, Lead Architect & Hands‑On Coder  
+  Maintainer of *icereed/paperless‑gpt* (1400+ GitHub stars)
+- **Thomas Ortmeier** — Co‑Founder, financial compliance & domain expertise
 
 ---
 
@@ -41,14 +30,14 @@ BubbleTax is a private project built by developers for developers and traders. O
 
 ## 💡 How to Get Involved or Trust Us
 
-- Explore the [BubbleTax website](https://bubbletax.de/?utm_source=github&utm_medium=org_profile&utm_campaign=link) to try the tool and see reports.  
-- We encourage feedback: feature requests, bug reports, edge‑cases matter a lot.  
-- All calculations are *assistive*, not legal‑advice. Use at your own risk; review results appropriately.  
+- Explore the [BubbleTax website](https://bubbletax.de/?utm_source=github&utm_medium=org_profile&utm_campaign=link) to view example reports and core functionality.  
+- Open feedback is welcomed: feature requests, bug reports, real‑world edge cases matter.  
+- Our calculations assist; they do **not** constitute legal or tax advice. Use with discretion.
 
 ---
 
 > ✉️ Connect with us:  
-> Email / Issues / GitHub Discussions. Let us know what works, what doesn’t, or what you’d like to see next.
+> Email / Issues / GitHub Discussions. Let us know what works, what doesn’t, or what features you’d like to see.
 
 ---
 
@@ -57,7 +46,7 @@ BubbleTax is a private project built by developers for developers and traders. O
 - Transparency  
 - Reliability  
 - Accuracy  
-- Community‑driven improvements
+- Community‑driven improvements  
 
 ---
 
